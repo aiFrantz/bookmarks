@@ -1,4 +1,4 @@
-Living Links Repo on GitHub, by Aizan Fahri
+Living Links Repo, by Aizan Fahri
 ============================================
 
 I created this repo because I want to store information, in the form of website/blog/article links regarding materials related to coding, server configuration, application development and related entries.
