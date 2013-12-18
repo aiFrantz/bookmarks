@@ -10,8 +10,5 @@ Hey, I think I'm gonna throw everything I've bookmarked on my web browsers here,
 Cheers!
 
 
-*Update on October 28, 2013*
 * uploaded "1. October 28, 2013"
-
-*Update on December 18, 2013*
-* uploaded "2. December 18, 2013
+* uploaded "2. December 18, 2013"
