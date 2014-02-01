@@ -1,0 +1,52 @@
+##### collection of useful online applications
+
+01. [Quran Tracker](http://qurantracker.com/)
+02. [Time and Date](http://www.timeanddate.com/)
+03. [Ubuntu source list generator](http://repogen.simplylinux.ch/)
+04. [10 fast finger typing test](http://10fastfingers.com/typing-test/english)
+05. [10 minute mail app](http://10minutemail.com/10MinuteMail/index.html)
+06. [LiveMinutes](http://liveminutes.com/)
+07. [cvmaker](https://cvmkr.com/)
+08. [Trello](https://trello.com/)
+09. [Rafflecopter](http://www.rafflecopter.com/)
+10. [Piazza](https://piazza.com/)
+11. [Soundslice](http://www.soundslice.com/)
+12. [DivShot](http://divshot.com/)
+13. [Wolfenhex's converter](Wolfenhex’s *inary converter)
+14. [CutePDF](https://editor.cutepdf.com/edit.asp)
+15. [Maildrop](http://maildrop.cc/)
+16. [Webflow](http://www.webflow.com/)
+17. [Infogram](http://infogr.am/)
+18. [Screenfly](http://quirktools.com/screenfly/)
+
+
+##### collection of useful online portals
+
+01. [Snopes](http://www.snopes.com/)
+02. [Hundred Zeros](http://hundredzeros.com/)
+03. [The Phobia List](http://phobialist.com/)
+04. [The Quotations Page](http://www.quotationspage.com/)
+05. [Track One Recordings Aalborg Soundtracks](http://trackonerecordings.com/aalborg-soundtracks/)
+06. [Scientific Malaysian](http://www.scientificmalaysian.com/)
+07. [Ginger's Grammar Book](http://www.gingersoftware.com/grammarbook/)
+08. [Islamic Renaissance Front](http://www.irfront.org/)
+09. [The New Boston Tutorial](http://thenewboston.org/tutorials.php)
+10. [WP-Snippets](http://wp-snippets.com/)
+11. [Lowendstock](http://lowendstock.com/)
+12. [Coursera](https://www.coursera.org/)
+13. [Colum Five](http://columnfivemedia.com/)
+14. [Infographic World](http://infographicworld.com/)
+15. [30 templates and vector kits for infographic](http://www.hongkiat.com/blog/infographic-design-kit/)
+16. [OpenStax College](http://openstaxcollege.org/)
+17. [The Deen Show](http://thedeenshow.com/)
+18. [USapps Contacts](http://www.usapps.org/application-resources/volunteer-contacts/)
+19. [Zen Pencils](http://zenpencils.com/)
+20. [Edx](https://www.edx.org/)
+
+##### collection of useful YouTube channels
+
+01. [Returacan](http://www.youtube.com/user/Returacan)
+02. [Robb World](http://www.youtube.com/user/RobbWorld)
+03. [Jarek4 Professional Airsoft](http://www.youtube.com/user/Jarek4) 
+04. [Crash Course](https://www.youtube.com/user/crashcourse)
+05. [Draw With Jazza](https://www.youtube.com/user/DrawWithJazza?feature=watch)
