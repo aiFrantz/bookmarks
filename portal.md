@@ -18,6 +18,11 @@
 16. [Webflow](http://www.webflow.com/)
 17. [Infogram](http://infogr.am/)
 18. [Screenfly](http://quirktools.com/screenfly/)
+19. [Burnbit](http://burnbit.com/)
+20. [Unheap](http://www.unheap.com/)
+21. [StoryArena](http://www.storyarena.com/)
+22. [Server Bear](http://serverbear.com/)
+23. [CSS Button Generator](http://www.cssbuttongenerator.com/)
 
 
 ##### collection of useful online portals
@@ -42,6 +47,12 @@
 18. [USapps Contacts](http://www.usapps.org/application-resources/volunteer-contacts/)
 19. [Zen Pencils](http://zenpencils.com/)
 20. [Edx](https://www.edx.org/)
+21. [A Practical Guide to Proofreading](http://practicalproofreading.com/)
+22. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+23. [Axllent](http://www.axllent.org/docs/)
+24. [ICM Scholars](http://www.icmscholars.org/)
+25. [Git Reference](http://gitref.org/)
+26. [CSS Almanac](http://css-tricks.com/almanac/)
 
 ##### collection of useful YouTube channels
 
