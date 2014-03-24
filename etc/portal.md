@@ -23,6 +23,12 @@
 21. [StoryArena](http://www.storyarena.com/)
 22. [Server Bear](http://serverbear.com/)
 23. [CSS Button Generator](http://www.cssbuttongenerator.com/)
+24. [HTML5 UP](http://html5up.net/)
+25. [Draw IO](https://www.draw.io/)
+26. [Coggle](https://coggle.it/)
+27. [Drone IO](https://drone.io/)
+
+
 
 
 ##### collection of useful online portals
@@ -53,6 +59,14 @@
 24. [ICM Scholars](http://www.icmscholars.org/)
 25. [Git Reference](http://gitref.org/)
 26. [CSS Almanac](http://css-tricks.com/almanac/)
+27. [Software Licenses in Plain English](https://peerj.com/)
+28. [WordPress Cheat Sheet](http://public.oed.com/how-to-use-the-oed/key-to-pronunciation/)
+29. [Pronunciation Guide for English Dictionary](http://www.oxfordlearnersdictionaries.com/about/pronunciation_english.html)
+30. [Key to Pronunciation](http://wp-cheatsheet.com/)
+31. [PeerJ](https://tldrlegal.com/)
+32. [Book Depository](http://bookdepository.com/)
+33. [CampusBooks](http://www.campusbooks.com/)
+34. [The 101 Most Useful Websies - Labnol](http://www.labnol.org/internet/101-useful-websites/18078/)
 
 ##### collection of useful YouTube channels
 
@@ -61,3 +75,4 @@
 03. [Jarek4 Professional Airsoft](http://www.youtube.com/user/Jarek4) 
 04. [Crash Course](https://www.youtube.com/user/crashcourse)
 05. [Draw With Jazza](https://www.youtube.com/user/DrawWithJazza?feature=watch)
+06. [Linus Granath](https://www.youtube.com/user/Ch0s3n26) 
