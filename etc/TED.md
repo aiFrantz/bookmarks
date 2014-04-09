@@ -10,3 +10,6 @@
 8. [Scott H Young - can you get an MIT education for $2,000?](https://www.youtube.com/watch?v=piSLobJfZ3c)
 9. [Logan LaPlante - hackschooling makes me happy](https://www.youtube.com/watch?v=h11u3vtcpaY)
 10. [Top 10 TED Talks on Computer Technology](http://www.bestcomputersciencedegrees.com/top-10-ted-talks-on-computer-technology/)
+
+
+me iz making changes here
