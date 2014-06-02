@@ -75,4 +75,22 @@
 03. [Jarek4 Professional Airsoft](http://www.youtube.com/user/Jarek4) 
 04. [Crash Course](https://www.youtube.com/user/crashcourse)
 05. [Draw With Jazza](https://www.youtube.com/user/DrawWithJazza?feature=watch)
-06. [Linus Granath](https://www.youtube.com/user/Ch0s3n26) 
+06. [Linus Granath](https://www.youtube.com/user/Ch0s3n26)
+07. [Raspberry Pi Beginners](https://www.youtube.com/user/RaspberryPiBeginners/)
+
+##### update on May 28, 2014
+
+* [CircuitHub](https://circuithub.com/)
+* [Superhero.js](http://superherojs.com/)
+* [Learn CSS layout](http://learnlayout.com/)
+* [CSS3 animation cheat sheet](http://www.justinaguilar.com/animations/index.html)
+* [Project Atomic](http://www.projectatomic.io/)
+* [Spurious Correlation](http://www.tylervigen.com/)
+* [100+ documentaries to expand your consciousness](http://www.openboxthinking.co.uk/2013/08/21/100-documentaries-to-expand-your-consciousness/)
+* [Mathematics documentaries](http://www.cosmolearning.com/mathematics/documentaries/)
+* [SpeckyBoy Design Magazine](http://speckyboy.com/)
+* [Digital Inspiration](http://www.labnol.org/)
+* [Public Domain Images](http://publicdomainarchive.com/)
+* [Learn Git](https://www.git-tower.com/learn/)
+* [RHEL Software Collections](https://www.softwarecollections.org/en/)
+* [LowEndTalk](http://lowendtalk.com/categories/offers)

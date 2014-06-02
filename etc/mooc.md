@@ -6,3 +6,5 @@
 * [CodeCademy | Javascript](http://www.codecademy.com/tracks/javascript)
 * [CodeCademy | Ruby](http://www.codecademy.com/tracks/ruby)
 * [CodeCademy | Python](http://www.codecademy.com/tracks/python)
+* [MIT | History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
+* [EdX | Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022)

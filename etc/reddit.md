@@ -35,7 +35,11 @@
 * [ELI5: Why is Phonebloks a bad idea?](http://www.reddit.com/r/explainlikeimfive/comments/1m4pmy/eli5_why_is_phonebloks_a_bad_idea/)
 * [What is the differences between Biotechnology,Biomedical science and Biomedical engineering ?](http://www.reddit.com/r/biology/comments/1dafxf/what_is_the_differences_between/)
 * [The IRS is made of people](http://www.reddit.com/r/funny/comments/p69fd/the_irs_is_made_of_people/)
-
+* [CMV: I believe cognitive-enhancing drugs like Ritalin and Adderall should be available to everyone](http://www.reddit.com/r/changemyview/comments/24b2hr/cmv_i_believe_cognitiveenhancing_drugs_like/)
+* [Hi, I'm Joe Belfiore from the Windows Phone Team.. AMA!](http://www.reddit.com/r/windowsphone/comments/24jtcy/hi_im_joe_belfiore_from_the_windows_phone_team_ama)
+* [What's the best way to explain ADHD to a loved one who just doesn't get it?](http://www.reddit.com/r/ADHD/comments/1e8jqb/whats_the_best_way_to_explain_adhd_to_a_loved_one/)
+* [ELi5: What is chaos theory?](http://www.reddit.com/r/explainlikeimfive/comments/260xmt/eli5_what_is_chaos_theory/)
+* [Introducing Dash, an Open-Source Game Engine in D](http://www.reddit.com/r/gamedev/comments/25yub3/introducing_dash_an_opensource_game_engine_in_d/)
 
 **Saved comments**
 
