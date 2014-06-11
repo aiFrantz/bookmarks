@@ -8,3 +8,8 @@
 * [CodeCademy | Python](http://www.codecademy.com/tracks/python)
 * [MIT | History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
 * [EdX | Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022)
+* [EdX | Fundamentals of Immunology, Part 1](https://www.edx.org/course/ricex/ricex-bioc372-1x-fundamentals-immunology-1846)
+* [EdX | The Psychologt of Criminal Justice](https://www.edx.org/course/uqx/uqx-crime101x-psychology-criminal-1672)
+* [EdX | Debt Sustainability Analysis](https://www.edx.org/course/imfx/imfx-dsax-debt-sustainability-analysis-1747)
+* [Coursera | Data Management for Clinical Research](https://www.coursera.org/course/datamanagement)
+* [Coursera | Reproducible Research](https://www.coursera.org/course/repdata)
