@@ -40,6 +40,8 @@
 * [What's the best way to explain ADHD to a loved one who just doesn't get it?](http://www.reddit.com/r/ADHD/comments/1e8jqb/whats_the_best_way_to_explain_adhd_to_a_loved_one/)
 * [ELi5: What is chaos theory?](http://www.reddit.com/r/explainlikeimfive/comments/260xmt/eli5_what_is_chaos_theory/)
 * [Introducing Dash, an Open-Source Game Engine in D](http://www.reddit.com/r/gamedev/comments/25yub3/introducing_dash_an_opensource_game_engine_in_d/)
+* [Why did you choose Ubuntu over other distros?](http://www.reddit.com/r/Ubuntu/comments/27uxfb/why_did_you_choose_ubuntu_over_other_distros/)
+* [MaidSafe is creating new and decentralized network](http://www.reddit.com/r/futuristparty/comments/27vk4k/maidsafe_is_creating_a_new_decentralized_internet/)
 
 **Saved comments**
 
