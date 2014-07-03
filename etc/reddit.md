@@ -43,6 +43,9 @@
 * [Why did you choose Ubuntu over other distros?](http://www.reddit.com/r/Ubuntu/comments/27uxfb/why_did_you_choose_ubuntu_over_other_distros/)
 * [MaidSafe is creating new and decentralized network](http://www.reddit.com/r/futuristparty/comments/27vk4k/maidsafe_is_creating_a_new_decentralized_internet/)
 * [ELI5: What problems do modern mathematicians attempt to solve?](http://www.reddit.com/r/explainlikeimfive/comments/28acbm/eli5_what_problems_do_modern_mathematicians/)
+* [Why is the pH scale 1 through 14 instead of 1-10 or 1-100?](http://www.reddit.com/r/askscience/comments/28f38e/why_is_the_ph_scale_1_through_14_instead_of_110/)
+* [AMA John Ohanian, Alexis Ohanian's grandfater](http://www.reddit.com/r/IAmA/comments/29039l/iam_john_ohanian_92_year_old_lawyer_parttime/)
+* [Mathematical documentaries](http://www.reddit.com/r/math/comments/1yj56g/mathematical_documentaries/)
 
 **Saved comments**
 
