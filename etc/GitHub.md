@@ -12,6 +12,8 @@
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 * [Bottom up computer science](https://github.com/ianw/bottomupcs)
 * [Js the right way](https://github.com/braziljs/js-the-right-way)
+* [Awesome Go](https://github.com/avelino/awesome-go)
+* [Awesome Python](https://github.com/vinta/awesome-python)
 
 **App Development / Deployment tools / PaaS**
 
