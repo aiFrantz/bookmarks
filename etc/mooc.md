@@ -14,12 +14,15 @@
 * [Coursera | Hardware/Software Interface](https://www.coursera.org/course/hwswinterface)
 * [Coursera | Computer Architecture](https://www.coursera.org/course/comparch)
 * [Coursera | Introduction to Data Science](https://www.coursera.org/course/datasci)
+* [Coursera | An introduction to Financial Accounting](https://www.coursera.org/course/accounting)
+* [Coursera | Data Analysis](https://www.coursera.org/course/dataanalysis)
+* [Coursera | (Stanford) Startup Engineering](https://www.coursera.org/course/startup)
+* [Coursera | Principles of Reactive Programming](https://www.coursera.org/course/reactive)
 
 **Cocademy**
 
 * [CodeCademy | Ruby](http://www.codecademy.com/tracks/ruby)
 * [CodeCademy | Python](http://www.codecademy.com/tracks/python)
-
 
 **Others**
 
