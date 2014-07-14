@@ -2,6 +2,7 @@
 
 **How-To Guides / List / Book**
 
+* [List of List](https://github.com/yaph/lologl)
 * [List of GitHub list](https://github.com/asciimoo/ListOfGithubLists)
 * [Awesome PHP](https://github.com/ziadoz/awesome-php)
 * [Front-end developer](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -14,6 +15,8 @@
 * [Js the right way](https://github.com/braziljs/js-the-right-way)
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [Python Reference](https://github.com/rasbt/python_reference)
+* [Awesome Ruby](https://github.com/markets/awesome-ruby)
 
 **App Development / Deployment tools / PaaS**
 
