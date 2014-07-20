@@ -1,4 +1,4 @@
-### TED videos
+##### TED videos
 
 1. [Sir Ken Robinson - says schools kill creativity](http://www.ted.com/index.php/talks/ken_robinson_says_schools_kill_creativity.html)
 2. [Pranav Mistry - the thrilling potential of SixthSense](http://www.ted.com/index.php/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology.html)
@@ -12,4 +12,14 @@
 10. [Top 10 TED Talks on Computer Technology](http://www.bestcomputersciencedegrees.com/top-10-ted-talks-on-computer-technology/)
 11. [The best demos at TED](http://blog.ted.com/2013/02/18/the-best-tech-demos-at-ted/)
 12. [8 math talks to blow your mind](http://blog.ted.com/2012/11/21/8-math-talks-to-blow-your-mind/)
-
+13. [Alexis Ohanian - How To Make A Splash](http://www.ted.com/talks/alexis_ohanian_how_to_make_a_splash_in_social_media)
+14. [Andrew Blum - What is the Internet, Really?](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+15. [Avi Rubin - All Your Devices Can Be Hacked](https://www.ted.com/talks/avi_rubin_all_your_devices_can_be_hacked)
+16. [Conrad Wolfram - Teaching kids real math with computers](https://www.ted.com/talks/conrad_wolfram_teaching_kids_real_math_with_computers)
+17. [David Pogue - 10 top time-saving tech tips](http://www.ted.com/talks/david_pogue_10_top_time_saving_tech_tips)
+18. [Elizabeth Gilbert - Success, failure and the drive to keep creating](http://www.ted.com/talks/elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating)
+19. [Elizabeth Gilbert - Your elusive creative genius](http://www.ted.com/talks/elizabeth_gilbert_on_genius)
+20. [Larry Page - Where's Google going next](https://www.ted.com/talks/larry_page_where_s_google_going_next)
+21. [Stephene Wolfram - Computing a theory of all knowledge](https://www.ted.com/talks/stephen_wolfram_computing_a_theory_of_everything)
+22. [Tal Golesworthy - How I repaired my own heart](http://www.ted.com/talks/tal_golesworthy_how_i_repaired_my_own_heart)
+23. [Terry Moore - Why is 'x' the unknown?](https://www.ted.com/talks/terry_moore_why_is_x_the_unknown)
