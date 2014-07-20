@@ -34,16 +34,16 @@
 
 **Git tutorials**
 
-1. [Atlassian | Git Workflows and Tutorials][https://www.atlassian.com/git/workflows]
-2. [Atlassian | Git Basics][https://www.atlassian.com/git/tutorial/git-basics]
-3. [Atlassian | Pull Requests][https://www.atlassian.com/git/workflows#!pull-request]
-4. [Atlassian | Fork a Repo, Compare Code, and Create a Pull Request][https://confluence.atlassian.com/display/BITBUCKET/Fork+a+Repo%2C+Compare+Code%2C+and+Create+a+Pull+Request]
-5. [Atlassian | Clone Your Git Repo and Add Source Files][https://confluence.atlassian.com/display/BITBUCKET/Clone+Your+Git+Repo+and+Add+Source+Files]
-6. [Atlassian | Bitbucket 101][https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101]
-7. [GitHub | Using pull requests][https://help.github.com/articles/using-pull-requests]
-8. [Git tip from the trenches][https://ochronus.com/git-tips-from-the-trenches/]
-9. [Using Git to manage a web site][http://toroid.org/ams/git-website-howto]
-10. [What is a bare git repository?][http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/]
+1. [Atlassian | Git Workflows and Tutorials](https://www.atlassian.com/git/workflows)
+2. [Atlassian | Git Basics](https://www.atlassian.com/git/tutorial/git-basics)
+3. [Atlassian | Pull Requests](https://www.atlassian.com/git/workflows#!pull-request)
+4. [Atlassian | Fork a Repo, Compare Code, and Create a Pull Request](https://confluence.atlassian.com/display/BITBUCKET/Fork+a+Repo%2C+Compare+Code%2C+and+Create+a+Pull+Request)
+5. [Atlassian | Clone Your Git Repo and Add Source Files](https://confluence.atlassian.com/display/BITBUCKET/Clone+Your+Git+Repo+and+Add+Source+Files)
+6. [Atlassian | Bitbucket 101](https://confluence.atlassian.com/display/BITBUCKET/Bitbucket+101)
+7. [GitHub | Using pull requests](https://help.github.com/articles/using-pull-requests)
+8. [Git tip from the trenches](https://ochronus.com/git-tips-from-the-trenches/)
+9. [Using Git to manage a web site](http://toroid.org/ams/git-website-howto)
+10. [What is a bare git repository?](http://www.saintsjd.com/2011/01/what-is-a-bare-git-repository/)
 
 **Git Q&A**
 
