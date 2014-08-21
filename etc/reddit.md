@@ -1,5 +1,6 @@
-**Saved threads**
+#### Saved threads
 
+**General**
 
 * [Could I destory entire roman empire?](http://www.reddit.com/r/AskReddit/comments/k067x/could_i_destroy_the_entire_roman_empire_during/)
 * [Why don't electron just stick to proton](http://www.reddit.com/r/askscience/comments/21nxvk/why_dont_electrons_just_stick_to_protons/)
@@ -27,6 +28,9 @@
 * [Why is the pH scale 1 through 14 instead of 1-10 or 1-100?](http://www.reddit.com/r/askscience/comments/28f38e/why_is_the_ph_scale_1_through_14_instead_of_110/)
 * [Mathematical documentaries](http://www.reddit.com/r/math/comments/1yj56g/mathematical_documentaries/)
 * [Newest Graduates of RIT, what advice/tips would you give the underclassmen and incoming freshmen?](http://www.reddit.com/r/rit/comments/26emgp/newest_graduates_of_rit_what_advicetips_would_you/)
+* [Software engineering vs computer science? : rit](http://www.reddit.com/r/rit/comments/2dkszp/software_engineering_vs_computer_science/)
+* [Networking and Sys Admin degree tips? : rit](http://www.reddit.com/r/rit/comments/2d611y/networking_and_sys_admin_degree_tips/)
+* [+/- Grading IS being implemented next year. : rit](http://www.reddit.com/r/rit/comments/2c5ump/grading_is_being_implemented_next_year/)
 
 **AMA threads**
 
@@ -40,6 +44,7 @@
 * [Hi, I'm Joe Belfiore from the Windows Phone Team.. AMA!](http://www.reddit.com/r/windowsphone/comments/24jtcy/hi_im_joe_belfiore_from_the_windows_phone_team_ama)
 * [AMA I've been on a heart transplant list](http://www.reddit.com/r/IAmA/comments/24a8ln/hello_reddit_i_have_been_on_a_heart_transplant/)
 * [AMA Bill Destler RIT](http://www.reddit.com/r/rit/comments/24uxdc/i_am_president_of_rochester_institute_of/)
+* [We build Internet Explorer. I know, right? Ask Us just about Anything. : IAmA](http://www.reddit.com/r/IAmA/comments/2dk60t/we_build_internet_explorer_i_know_right_ask_us/)
 
 **ELI5 threads**
 
@@ -56,6 +61,7 @@
 * [ELI5: Why is Phonebloks a bad idea?](http://www.reddit.com/r/explainlikeimfive/comments/1m4pmy/eli5_why_is_phonebloks_a_bad_idea/)
 * [ELi5: What is chaos theory?](http://www.reddit.com/r/explainlikeimfive/comments/260xmt/eli5_what_is_chaos_theory/)
 * [ELI5: What problems do modern mathematicians attempt to solve?](http://www.reddit.com/r/explainlikeimfive/comments/28acbm/eli5_what_problems_do_modern_mathematicians/)
+* [ELI5:Why Linux is supposedly so much more secure than Windows, even though it is open source and does not have a multi million corporation behind it? : explainlikeimfive](http://www.reddit.com/r/explainlikeimfive/comments/2akt1z/eli5why_linux_is_supposedly_so_much_more_secure/)
 
 **Saved comments**
 
