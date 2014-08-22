@@ -1,4 +1,4 @@
-##### Starred GitHub repositories
+#### Starred GitHub repositories
 
 **How-To Guides / List / Book**
 
@@ -17,6 +17,11 @@
 * [Awesome Python](https://github.com/vinta/awesome-python)
 * [Python Reference](https://github.com/rasbt/python_reference)
 * [Awesome Ruby](https://github.com/markets/awesome-ruby)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [JS Must Watch Videos](https://github.com/bolshchikov/js-must-watch)
+* [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+* [Free Programming Books](https://github.com/vhf/free-programming-books)
 
 **App Development / Deployment tools / PaaS**
 
@@ -25,6 +30,14 @@
 * [Deis.io](https://github.com/deis/deis)
 * [Tsuru](https://github.com/tsuru/tsuru)
 * [Dokku](https://github.com/progrium/dokku)
+* [Octohost](https://github.com/octohost/octohost)
+* [Cloud9 IDE](https://github.com/ajaxorg/cloud9)
+* [Sentry](https://github.com/getsentry/sentry)
+* [Pkgr.io](https://github.com/crohr/pkgr)
+* [RenPy](https://github.com/renpy/renpy)
+* [GitLab](https://github.com/gitlabhq/gitlabhq)
+* [DockerUI](https://github.com/crosbymichael/dockerui)
+* [Panamax](https://github.com/CenturyLinkLabs/panamax-ui)
 
 **Cool Applications**
 
@@ -58,13 +71,22 @@
 * [NodeBB](https://github.com/NodeBB/NodeBB)
 * [OpenProject](https://github.com/opf/openproject)
 * [Discourse](https://github.com/discourse/discourse)
-* [Pkgr.io](https://github.com/crohr/pkgr)
 * [StackEdit](https://github.com/benweet/stackedit)
 * [Reddit Source code](https://github.com/reddit/reddit)
 * [Codebox](https://github.com/FriendCode/codebox)
 * [ShareLaTex](https://github.com/sharelatex/sharelatex)
 * [EsoTalk](https://github.com/esotalk/esoTalk)
 * [Shinken](https://github.com/naparuba/shinken)
+* [Coderwall](https://github.com/assemblymade/coderwall)
+* [MapCrafter](https://github.com/mapcrafter/mapcrafter)
+* [Wallabag](https://github.com/wallabag/wallabag)
+* [psdash](https://github.com/Jahaja/psdash)
+* [nirc](https://github.com/cjstewart88/nirc)
+* [Butterfly terminal](https://github.com/paradoxxxzero/butterfly)
+* [CrowdTilt](https://github.com/Crowdtilt/CrowdtiltOpen)
+* [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN)
+* [zPanel](https://github.com/zpanel/zpanelx)
+* [Ajenti](https://github.com/Eugeny/ajenti)
 
 **Misc (e.g. libraries / tiny code / web template)**
 
@@ -76,13 +98,25 @@
 * [Deedy Resuma (latex)](https://github.com/deedydas/Deedy-Resume)
 * [Uno, Ghost CMS](https://github.com/daleanthony/uno)
 * [WordPress Holo Theme](https://github.com/throrin19/Wordpress-HoloTheme)
+* [Ghost Alarm](https://github.com/jasonslyvia/alarm)
+* [Ghost Ichi](https://github.com/twogrey/ichi)
+* [Slick](https://github.com/kenwheeler/slick)
+* [Firefox Fire Font](https://github.com/mozilla/Fira)
+* [Font Awesome](https://github.com/FortAwesome/Font-Awesome)
+* [Bootflat](https://github.com/bootflat/bootflat.github.io)
+* [TimelineJS](https://github.com/NUKnightLab/TimelineJS)
+* [Sharebutton.co](https://github.com/carrot/share-button)
+* [RevealJS](https://github.com/hakimel/reveal.js)
+* [DirectoryLister](https://github.com/DirectoryLister/DirectoryLister)
+* [Arch Ultimate Install](https://github.com/helmuthdu/aui)
+* [PureCSS](https://github.com/yui/pure)
+* [One Page Scroll](https://github.com/peachananr/onepage-scroll)
 
 **Games**
 
 * [HabitRPG](https://github.com/HabitRPG/habitrpg)
 * [Dash](https://github.com/Circular-Studios/Dash)
-* []()
-* []()
+* [HTML5 Game Engines](https://github.com/dannagle/HTML5GameEngines)
 
 **Company/Group/Team Repository**
 
