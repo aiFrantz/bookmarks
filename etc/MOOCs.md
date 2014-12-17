@@ -19,15 +19,22 @@
 * [Coursera | Data Analysis](https://www.coursera.org/course/dataanalysis)
 * [Coursera | (Stanford) Startup Engineering](https://www.coursera.org/course/startup)
 * [Coursera | Principles of Reactive Programming](https://www.coursera.org/course/reactive)
+* [Coursera | Cloud Computing - UIUIC](https://www.coursera.org/specialization/cloudcomputing/19)
+* [Coursera | Data Mining - UIUC](https://www.coursera.org/specialization/datamining/20)
 
 **Cocademy**
 
 * [CodeCademy | Ruby](http://www.codecademy.com/tracks/ruby)
 * [CodeCademy | Python](http://www.codecademy.com/tracks/python)
 
+**MIT OpenCourseWare**
+
+* [Genetics](http://ocw.mit.edu/courses/biology/7-03-genetics-fall-2004/)
+* [MIT | History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
+* [MIT | Introduction to Doing Research in Media Arts and Sciences](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/)
+
 **Others**
 
 * [Udemy | Productivity Strategies to Destroy Your Inner Procrastinator](https://www.udemy.com/killingbob/?couponCode=ZACHLOVESYOU)
 * [CodeCademy | Javascript](http://www.codecademy.com/tracks/javascript)
-* [MIT | History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
-* [MIT | Introduction to Doing Research in Media Arts and Sciences](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/)
+* [CRYPTO101](https://www.crypto101.io/)
