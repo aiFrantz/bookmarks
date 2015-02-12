@@ -1,11 +1,10 @@
 **EdX**
 
-* [EdX | Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022)
 * [EdX | Fundamentals of Immunology, Part 1](https://www.edx.org/course/ricex/ricex-bioc372-1x-fundamentals-immunology-1846)
-* [EdX | The Psychologt of Criminal Justice](https://www.edx.org/course/uqx/uqx-crime101x-psychology-criminal-1672)
+* [EdX | The Psychology of Criminal Justice](https://www.edx.org/course/uqx/uqx-crime101x-psychology-criminal-1672)
 * [EdX | Debt Sustainability Analysis](https://www.edx.org/course/imfx/imfx-dsax-debt-sustainability-analysis-1747)
 * [EdX | Introduction to Linux](https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621)
-* [EdX | Introduction to Computer Science cs50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+* [EdX | Introduction to Computer Science CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 **Coursera**
 
