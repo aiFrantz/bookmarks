@@ -32,7 +32,7 @@
 **MIT OpenCourseWare**
 
 * [Genetics](http://ocw.mit.edu/courses/biology/7-03-genetics-fall-2004/)
-* History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
+* [History & Anthropology of Medicine and Biology](http://ocw.mit.edu/courses/science-technology-and-society/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/)
 * [Introduction to Doing Research in Media Arts and Sciences](http://ocw.mit.edu/courses/media-arts-and-sciences/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/)
 
 **Others**
