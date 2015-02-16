@@ -55,3 +55,15 @@
 * [The Physics of the Death Star — Starts With A Bang!](https://medium.com/starts-with-a-bang/the-physics-of-the-death-star-c21ccc58ade9)
 * [Vaccines Work. Here Are the Facts. — The Nib](https://medium.com/the-nib/vaccines-work-here-are-the-facts-5de3d0f9ffd0)
 * [Dear Makers, On Fridays My Office is Yours — An Experiment](https://medium.com/@rajivpant/dear-makers-on-fridays-my-office-is-yours-an-experiment-89db21f5dd1b)
+
+#### Updated on February 16, 2015
+
+* [Two Years To No Lies — TheLi.st @ Medium](https://medium.com/thelist/two-years-to-no-lies-35a4da8a92f6)
+* [72% of Codecademy Users Never Finished — Learn To Code](https://medium.com/bloc-posts/72-of-codecademy-users-never-finished-de1768a6c1c6)
+* [12 Lessons of Waking Up at 4:30 a.m. for 21 Days — Life Hacks for Business](https://medium.com/life-hacks-for-business/12-lessons-of-waking-up-at-4-30-a-m-for-21-days-90d1053c3634)
+* [Work It Harder Make It Better Do It Faster Makes Us Stronger — Matter](https://medium.com/matter/work-it-harder-make-it-better-do-it-faster-makes-us-stronger-65c137c79aeb)
+* [Google Search Will Be Your Next Brain — Backchannel](https://medium.com/backchannel/google-search-will-be-your-next-brain-5207c26e4523)
+* [Working on self initiated projects in ‘work hours’ & the value of dedicating time to your passions](https://medium.com/@rachael_burns/working-on-self-initiated-projects-in-work-hours-the-value-of-dedicating-time-to-your-passions-dc786278ed92)
+* [Starting a cultural sector (digital) data revolution! — A Curious Mind](https://medium.com/a-curious-mind/starting-a-cultural-sector-digital-data-revolution-a797eee27f71)
+* [Holy Shit, I Interviewed the President](https://medium.com/@hankgreen/holy-shit-i-interviewed-the-president-fa3e8fb44d16)
+* [How I built a startup while traveling to 20 countries — Nomad List](https://medium.com/digital-nomad-stories/how-i-built-a-startup-while-traveling-to-20-countries-f0ec3a92bc3c)

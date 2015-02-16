@@ -1,4 +1,4 @@
-#### Saved threads
+### Saved threads
 
 **General**
 
@@ -69,3 +69,23 @@
 * [RIT over RPI](http://www.reddit.com/r/rit/comments/22b4vv/rit_over_rpi/cgo2d6w)
 * [Going into CS in the fall need help](http://www.reddit.com/r/computerscience/comments/212wnc/going_into_cs_in_the_fall_need_help/cg960p9)
 * [I want to use cheap computer to teach kids how to code for charity](http://www.reddit.com/r/raspberry_pi/comments/24ykx2/i_want_to_use_a_cheap_computer_to_teach_kids_how/chca2bw)
+
+### New Saved Threads as on February 16th 2015
+
+* [ELI5: why don't sophisticated hackers do something useful?](https://www.reddit.com/r/explainlikeimfive/comments/2gmi30/eli5_why_dont_sophisticated_hackers_do_something/)
+* [AMA: I'm Professor Rob Knight](https://www.reddit.com/r/IAmA/comments/2go2ys/im_professor_rob_knight_lets_talk_about_the/)
+* [RIT: Tonaay comments on Networking and Sys Admin degree tips?](https://www.reddit.com/r/rit/comments/2d611y/networking_and_sys_admin_degree_tips/cjmftht)
+* [DotA 2: Pinoys in SEA: Why are they so bad mannered people?](https://www.reddit.com/r/DotA2/comments/2if9rm/pinoys_in_sea_why_are_they_so_bad_mannered_people/)
+* [AMA: We are the Google Site Reliability Engineering team](https://www.reddit.com/r/IAmA/comments/1w1y5m/we_are_the_google_site_reliability_engineering/)
+* [RIT: Networking and Sys Admin degree tips](https://www.reddit.com/r/rit/comments/2d611y/networking_and_sys_admin_degree_tips/)
+* [RIT: What's it like having a 4.0 GPA at RIT?](https://www.reddit.com/r/rit/comments/2kejcc/whats_it_like_having_a_40_gpa_at_rit/)
+* [AMA: We are EFF, Creative Commons, Right to Research Coalition, Open Access Button, and Fundación Karisma](https://www.reddit.com/r/IAmA/comments/2k3zy8/we_are_eff_creative_commons_right_to_research/)
+* [Writing Prompt: You are a teenager with the ability to measure how "Dangerous" people are on a scale from 1 to 10 just by looking at them](https://www.reddit.com/r/WritingPrompts/comments/2ns30z/wp_you_are_a_teenager_with_the_ability_to_measure/)
+* [Writing Prompt: [WP] A man sues God because his insurance company won't pay for the damages done to his house in a storm.](https://www.reddit.com/r/WritingPrompts/comments/2nuhiu/wp_a_man_sues_god_because_his_insurance_company/)
+* [AMA: I am Mikko Hypponen, a computer security expert](https://www.reddit.com/r/IAmA/comments/2o1il1/i_am_mikko_hypponen_a_computer_security_expert/)
+* [AMA: A few days ago, CERN launched an Open Data Portal to publicly share data from the Large Hadron Collider](https://www.reddit.com/r/IAmA/comments/2nxwkb/a_few_days_ago_cern_launched_an_open_data_portal/)
+* [NoSleep: Case 15: Drug-induced eidetic memory](https://www.reddit.com/r/nosleep/comments/2v3w4b/case_15_druginduced_eidetic_memory/)
+* [RIT: SE vs. CS](https://www.reddit.com/r/rit/comments/2up8ha/rit_se_vs_cs/)
+* [AskReddit: You are allowed to pick one book that is mandatory for every human being to read. Which book do you chose and why?](https://www.reddit.com/r/AskReddit/comments/2upn0b/you_are_allowed_to_pick_one_book_that_is/)
+* [ELI5: ELI5:Why are German and Japanese products generally more reliable and higher quality?](https://www.reddit.com/r/explainlikeimfive/comments/2umvsw/eli5why_are_german_and_japanese_products/)
+* [NoSleep: I am his architect, and I've doomed us all](https://www.reddit.com/r/nosleep/comments/2vwl87/i_am_his_architect_and_ive_doomed_us_all/)

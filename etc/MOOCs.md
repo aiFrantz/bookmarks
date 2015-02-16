@@ -28,6 +28,7 @@
 
 * [Ruby](http://www.codecademy.com/tracks/ruby)
 * [Python](http://www.codecademy.com/tracks/python)
+* [Introduction to APIs in Python](http://www.codecademy.com/en/tracks/apis-python)
 
 **MIT OpenCourseWare**
 
