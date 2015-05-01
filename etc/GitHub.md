@@ -22,6 +22,23 @@
 * [HN Tools of The Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 * [Free Programming Books](https://github.com/vhf/free-programming-books)
+* [Awesome-Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+* [Free For Dev](https://github.com/ripienaar/free-for-dev)
+* [Git style guide](https://github.com/agis-/git-style-guide)
+* [Thoughtbot guides](https://github.com/thoughtbot/guides)
+* [Thoughtbot TIL](https://github.com/thoughtbot/til)
+* [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [Retter: collection of crypto stuff](https://github.com/maciejczyzewski/retter)
+* [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [The Life of Secret Data](https://github.com/benbjohnson/thesecretlivesofdata)
+* [Awesome SVG](https://github.com/willianjusten/awesome-svg)
+* [The simple Git Guide](https://github.com/rogerdudler/git-guide)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [Game Development Magic Tools](https://github.com/ellisonleao/magictools)
+* [Awesome Copycats WM Themes](https://github.com/copycat-killer/awesome-copycats)
+* [gotbletu random notes](https://github.com/gotbletu/shownotes)
+* 
 
 **App Development / Deployment tools / PaaS**
 
