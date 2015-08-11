@@ -1,0 +1,10 @@
+## refrigerator protocol episode 4 (2015-08-09)
+
+* [Let’s Make Those Book Chapters Open Too!](http://blogs.plos.org/biologue/2013/01/23/lets-make-those-book-chapters-open-too/)
+* [If You Don't Know This About GFP, FITC, And PE, You Might Publish False Flow Cytometry Data](http://expertcytometry.com/fluorescence-funny-business/)
+* [Antidepressants affect people’s moral behaviour, study finds](http://www.sciencealert.com/antidepressants-affect-people-s-moral-behaviour-study-finds)
+* [Interview with Mahaletchumy Arujanan](http://pharmaboardroom.com/interviews/interview-with-mahaletchumy-arujanan-executive-director-malaysian-biotechnology-information-centre-m/)
+* [Thoughts on Oxford Nanopore’s MinION mobile DNA sequencer](https://biomickwatson.wordpress.com/2014/09/07/thoughts-on-oxford-nanopores-minion-mobile-dna-sequencer/)
+* [The Problem with Artificial Willpower](http://www.scientificamerican.com/article/the-problem-with-artificial-willpower1/)
+* [Omics, Bioinformatics, Computational Biology](http://alttox.org/mapp/emerging-technologies/omics-bioinformatics-computational-biology/)
+* [Your body, the battery: Powering gadgets from human “biofuel”](http://arstechnica.com/science/2015/07/your-body-the-battery-powering-gadgets-from-human-biofuel/)
